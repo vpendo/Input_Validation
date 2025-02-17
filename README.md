@@ -22,11 +22,10 @@ Each screen includes validation rules for user input and allows seamless navigat
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/flutter-multi-screen-form.git
-   ```
+   git clone https://github.com/vpendo/Input_Validation.git   ```
 2. Navigate to the project directory:
    ```sh
-   cd flutter-multi-screen-form
+   cd Input_Validation
    ```
 3. Install dependencies:
    ```sh
